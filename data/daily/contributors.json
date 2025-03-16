@@ -2,7 +2,7 @@
   {
     "contributor": "0xbbjoker",
     "score": 50,
-    "summary": "0xbbjoker is currently working on upgrading the package manager, implementing package-scoped singleton database connections, and making changes to the plugin-sql documentation. They have also fixed a memory deletion issue. Their recent activity is primarily focused on packages.",
+    "summary": "Unable to generate summary for 0xbbjoker due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/54844437?v=4",
     "activity": {
       "code": {
@@ -181,7 +181,7 @@
   {
     "contributor": "shakkernerd",
     "score": 38,
-    "summary": "shakkernerd is currently working on reverting a change to get the client back up, fixing logger formatting issues, and adding a new CLI command feature. They have also been involved in cleaning up tasks within the packages code area.",
+    "summary": "Unable to generate summary for shakkernerd due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/165377636?u=5560dd9f2d310e1ba61dbba864006a951391a582&v=4",
     "activity": {
       "code": {
@@ -308,7 +308,7 @@
   {
     "contributor": "wtfsayo",
     "score": 28,
-    "summary": "wtfsayo is currently working on improving the user interface by fixing agent last message animation, enhancing the profile card, and implementing consistent CLI command imports. They are also transitioning to use socketio, removing wss, and utilizing bun instead of node in the-org project within the packages code areas.",
+    "summary": "Unable to generate summary for wtfsayo due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/82053242?u=98209a1f10456f42d4d2fa71db4d5bf4a672cbc3&v=4",
     "activity": {
       "code": {
@@ -482,7 +482,7 @@
   {
     "contributor": "tcm390",
     "score": 19,
-    "summary": "tcm390 is currently working on fixing issues related to the WebSocket type and the graphical user interface for speech-to-text and text-to-speech functionalities in the 'packages' code area. They have successfully merged 2 pull requests addressing these issues.",
+    "summary": "Unable to generate summary for tcm390 due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/60634884?u=c6c41679b8322eaa0c81f72e0b4ed95e80f0ac16&v=4",
     "activity": {
       "code": {
@@ -573,7 +573,7 @@
   {
     "contributor": "emmanuel-ferdman",
     "score": 13,
-    "summary": "emmanuel-ferdman is currently working on updating plugins source code in the documentation. They have submitted 1 pull request, which has been successfully merged.",
+    "summary": "Unable to generate summary for emmanuel-ferdman due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/35470921?u=7e774a480af1bd89e9b90c4f0866c97fb2210ec4&v=4",
     "activity": {
       "code": {
@@ -631,7 +631,7 @@
   {
     "contributor": "bdommie",
     "score": 5,
-    "summary": "bdommie is currently working on a pull request to add Kluster AI as a model provider in the packages and agent code areas. The pull request has not been merged yet, but it is the most recent significant activity by bdommie on GitHub.",
+    "summary": "Unable to generate summary for bdommie due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/10286315?u=2d0fa021b9cb0a9f8ade57e832d75710d6aaa9ce&v=4",
     "activity": {
       "code": {
@@ -705,7 +705,7 @@
   {
     "contributor": "small-talk",
     "score": 1,
-    "summary": "small-talk is currently working on resolving an issue related to the Twitter client not initializing with the agent. This is the only recent activity, with no pull requests, commits, or code changes made yet.",
+    "summary": "Unable to generate summary for small-talk due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/8185371?v=4",
     "activity": {
       "code": {
@@ -740,7 +740,7 @@
   {
     "contributor": "madjin",
     "score": 1,
-    "summary": "madjin is currently working on an enhancement for the webui configurator by adding the feature to upload .env files. This contribution falls under the V2 project area.",
+    "summary": "Unable to generate summary for madjin due to an error.",
     "avatar_url": "https://avatars.githubusercontent.com/u/32600939?u=cdcf89f44c7a50906c7a80d889efa85023af2049&v=4",
     "activity": {
       "code": {

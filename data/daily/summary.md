@@ -1,4 +1,4 @@
-# elizaos Eliza (2025-03-15)
+# elizaos Eliza (2025-03-16)
     
 ## 📊 Overview
 Development focused on package improvements (changes to plugin-sql docs), new features (upgrade pckg manager), 6 bug fixes. with 8 contributors merging 14 PRs. Major work included various improvements.
@@ -27,9 +27,9 @@ Development focused on package improvements (changes to plugin-sql docs), new fe
 - fix: delete memory
 
 ## 👥 Top Contributors
-- **0xbbjoker**: 0xbbjoker is currently working on upgrading the package manager, implementing package-scoped singleton database connections, and making changes to the plugin-sql documentation
-- **shakkernerd**: shakkernerd is currently working on reverting a change to get the client back up, fixing logger formatting issues, and adding a new CLI command feature
-- **wtfsayo**: wtfsayo is currently working on improving the user interface by fixing agent last message animation, enhancing the profile card, and implementing consistent CLI command imports
+- **0xbbjoker**: Unable to generate summary for 0xbbjoker due to an error
+- **shakkernerd**: Unable to generate summary for shakkernerd due to an error
+- **wtfsayo**: Unable to generate summary for wtfsayo due to an error
 
 ## ⚠️ Issues
 - **New Issues**: 2
