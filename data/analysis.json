@@ -56,14 +56,14 @@
         }
       },
       "tags": [
+        "docs",
+        "plugin",
+        "blockchain",
+        "infra",
         "core",
         "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "infra",
-        "plugin",
-        "client"
+        "client",
+        "db"
       ],
       "stats": {
         "total_prs": 125,
@@ -216,22 +216,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "api",
+        "architect",
+        "blockchain",
         "infra",
-        "ui",
         "core",
         "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "maintainer",
-        "architect",
-        "plugin",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 100,
@@ -410,24 +410,24 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "api",
-        "infra",
         "security",
-        "ui",
-        "core",
-        "ai",
-        "db",
         "architect",
         "blockchain",
-        "docs",
+        "core",
+        "infra",
+        "ai",
         "docs-writer",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 71,
@@ -599,22 +599,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "api",
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "maintainer",
+        "docs",
+        "test",
+        "blockchain",
         "architect",
-        "plugin",
+        "core",
+        "infra",
+        "ai",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 50,
@@ -776,22 +776,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "api",
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
         "blockchain",
         "architect",
-        "docs",
-        "maintainer",
+        "core",
+        "infra",
+        "ai",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 49,
@@ -966,23 +966,23 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "api",
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "docs-writer",
         "maintainer",
+        "docs",
+        "test",
         "architect",
-        "plugin",
+        "blockchain",
+        "core",
+        "infra",
+        "ai",
+        "docs-writer",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 40,
@@ -1152,20 +1152,20 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "infra",
-        "security",
-        "ui",
-        "core",
-        "ai",
-        "blockchain",
-        "docs",
         "maintainer",
+        "docs",
+        "test",
+        "security",
         "architect",
-        "plugin",
+        "blockchain",
+        "core",
+        "infra",
+        "ai",
         "client",
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -1305,19 +1305,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
         "test",
-        "infra",
-        "core",
-        "ai",
-        "db",
         "blockchain",
         "architect",
-        "maintainer",
+        "core",
+        "infra",
+        "ai",
         "client",
         "plugin",
-        "typescript"
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 30,
@@ -1452,20 +1452,20 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "architect",
+        "blockchain",
         "infra",
-        "ui",
         "core",
         "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "maintainer",
-        "architect",
-        "plugin",
         "client",
-        "typescript"
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 29,
@@ -1596,16 +1596,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "blockchain",
-        "architect",
+        "maintainer",
+        "plugin",
         "docs",
         "api",
-        "plugin",
+        "blockchain",
+        "architect",
         "infra",
-        "maintainer",
+        "core",
+        "bug-fix",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -1765,22 +1765,22 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "docs",
         "test",
-        "api",
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
         "blockchain",
         "architect",
-        "docs",
+        "infra",
+        "core",
+        "ai",
         "docs-writer",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 22,
@@ -1898,16 +1898,16 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "docs",
+        "test",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "test",
-        "docs",
-        "maintainer",
-        "architect",
-        "typescript",
-        "client"
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 21,
@@ -2025,19 +2025,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
-        "db",
+        "api",
+        "plugin",
+        "maintainer",
         "blockchain",
         "architect",
-        "api",
+        "core",
         "infra",
-        "maintainer",
-        "plugin",
+        "ai",
+        "bug-fix",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 20,
@@ -2159,18 +2159,18 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "db",
-        "blockchain",
-        "architect",
-        "test",
         "api",
         "plugin",
+        "test",
+        "blockchain",
+        "architect",
+        "core",
         "infra",
+        "ai",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 19,
@@ -2303,19 +2303,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "api",
-        "infra",
-        "core",
-        "ai",
-        "blockchain",
-        "docs",
         "maintainer",
+        "docs",
+        "test",
+        "blockchain",
         "architect",
-        "plugin",
+        "core",
+        "infra",
+        "ai",
         "client",
+        "api",
+        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -2478,22 +2478,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "api",
-        "infra",
-        "core",
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "docs-writer",
         "maintainer",
+        "docs",
+        "test",
         "architect",
-        "plugin",
+        "blockchain",
+        "core",
+        "infra",
+        "ai",
+        "docs-writer",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 17,
@@ -2649,21 +2649,21 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
-        "db",
+        "api",
+        "docs",
+        "plugin",
+        "maintainer",
         "test",
         "blockchain",
-        "docs",
         "architect",
-        "api",
-        "plugin",
+        "core",
         "infra",
-        "maintainer",
+        "ai",
+        "bug-fix",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 16,
@@ -2820,22 +2820,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "test",
-        "api",
-        "infra",
-        "security",
-        "core",
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "maintainer",
+        "docs",
+        "test",
+        "security",
+        "blockchain",
         "architect",
-        "plugin",
+        "core",
+        "infra",
+        "ai",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 15,
@@ -2972,18 +2972,18 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "test",
+        "architect",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "db",
-        "architect",
-        "test",
-        "maintainer",
-        "infra",
-        "plugin",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 15,
@@ -3099,16 +3099,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "db",
+        "docs",
         "test",
         "blockchain",
-        "docs",
-        "infra",
         "architect",
-        "typescript"
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 14,
@@ -3230,18 +3230,18 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "api",
+        "architect",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "db",
-        "architect",
-        "api",
-        "plugin",
-        "maintainer",
-        "infra",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 13,
@@ -3335,12 +3335,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
-        "architect",
         "docs",
-        "docs-writer",
         "plugin",
+        "architect",
+        "ai",
+        "docs-writer",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -3469,18 +3469,18 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "api",
+        "docs",
+        "plugin",
+        "maintainer",
+        "architect",
+        "infra",
         "core",
         "ai",
         "bug-fix",
-        "docs",
-        "api",
-        "plugin",
-        "infra",
-        "maintainer",
-        "architect",
-        "typescript",
-        "client"
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 11,
@@ -3617,20 +3617,20 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "api",
+        "maintainer",
+        "docs",
+        "architect",
         "infra",
-        "ui",
         "core",
         "ai",
-        "db",
-        "architect",
-        "docs",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 10,
@@ -3760,18 +3760,18 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "docs",
+        "plugin",
+        "test",
+        "architect",
+        "blockchain",
         "core",
         "ai",
         "bug-fix",
-        "db",
-        "test",
-        "blockchain",
-        "docs",
-        "plugin",
-        "maintainer",
-        "architect",
-        "typescript"
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 10,
@@ -3896,19 +3896,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
         "blockchain",
         "architect",
-        "docs",
         "infra",
-        "maintainer",
-        "plugin",
-        "typescript",
+        "core",
+        "ai",
+        "ui",
+        "bug-fix",
+        "feature-dev",
         "client",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 10,
@@ -4031,16 +4031,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
-        "docs",
         "api",
         "plugin",
-        "infra",
         "maintainer",
+        "docs",
         "architect",
+        "core",
+        "infra",
+        "ai",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -4162,17 +4162,17 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "docs",
+        "api",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "architect",
-        "docs",
-        "api",
-        "maintainer",
-        "plugin",
-        "typescript",
-        "client"
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 9,
@@ -4280,16 +4280,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "db",
-        "blockchain",
-        "docs",
-        "infra",
         "maintainer",
+        "docs",
         "plugin",
+        "blockchain",
+        "infra",
+        "bug-fix",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 9,
@@ -4423,19 +4423,19 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
         "test",
-        "api",
+        "architect",
         "infra",
-        "ui",
         "core",
         "ai",
-        "db",
-        "architect",
-        "docs",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 8,
@@ -4571,18 +4571,18 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "docs",
+        "architect",
+        "blockchain",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "blockchain",
-        "docs",
-        "plugin",
-        "infra",
-        "maintainer",
-        "architect",
-        "typescript",
-        "client"
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 7,
@@ -4655,9 +4655,9 @@
       "tags": [
         "maintainer",
         "bug-fix",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 7,
@@ -4770,18 +4770,18 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "db",
-        "blockchain",
-        "test",
-        "docs",
-        "architect",
         "maintainer",
-        "security",
+        "docs",
         "plugin",
+        "test",
+        "security",
+        "blockchain",
+        "architect",
+        "bug-fix",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 7,
@@ -4901,17 +4901,17 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "api",
-        "ui",
+        "maintainer",
+        "blockchain",
         "core",
         "ai",
-        "db",
-        "blockchain",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
+        "ui",
+        "bug-fix",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 7,
@@ -5019,16 +5019,16 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "api",
+        "architect",
+        "blockchain",
+        "infra",
         "core",
         "ai",
         "bug-fix",
-        "architect",
-        "blockchain",
-        "api",
-        "maintainer",
-        "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -5146,17 +5146,17 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "test",
-        "api",
-        "infra",
-        "core",
-        "db",
         "docs",
+        "test",
         "architect",
-        "plugin",
+        "core",
+        "infra",
         "client",
-        "typescript"
+        "api",
+        "plugin",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 7,
@@ -5307,22 +5307,22 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "api",
-        "plugin",
-        "infra",
         "security",
+        "blockchain",
+        "architect",
+        "infra",
         "core",
         "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "maintainer",
-        "architect",
+        "client",
+        "api",
+        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 7,
@@ -5427,15 +5427,15 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
-        "db",
-        "test",
-        "blockchain",
         "docs",
         "plugin",
+        "test",
+        "blockchain",
+        "core",
+        "ai",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 7,
@@ -5509,8 +5509,8 @@
       },
       "tags": [
         "docs",
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -5605,14 +5605,14 @@
         }
       },
       "tags": [
-        "core",
-        "bug-fix",
-        "db",
-        "docs",
         "api",
         "maintainer",
+        "docs",
+        "core",
+        "bug-fix",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 6,
@@ -5743,19 +5743,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
-        "docs",
         "maintainer",
+        "docs",
         "architect",
-        "plugin",
+        "core",
+        "infra",
+        "ai",
         "client",
-        "typescript"
+        "plugin",
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 6,
@@ -5852,13 +5852,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "architect",
-        "blockchain",
         "api",
         "plugin",
+        "architect",
+        "blockchain",
+        "core",
+        "ai",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -5939,9 +5939,9 @@
       "tags": [
         "maintainer",
         "bug-fix",
-        "db",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 6,
@@ -6012,11 +6012,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
+        "docs",
         "plugin",
+        "feature-dev",
         "architect",
-        "docs"
+        "ai"
       ],
       "stats": {
         "total_prs": 6,
@@ -6151,21 +6151,21 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "infra",
-        "core",
-        "ai",
-        "db",
         "blockchain",
         "architect",
-        "docs",
+        "core",
+        "infra",
+        "ai",
         "docs-writer",
-        "maintainer",
         "client",
         "plugin",
-        "typescript"
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 6,
@@ -6260,12 +6260,12 @@
         }
       },
       "tags": [
+        "maintainer",
+        "blockchain",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "blockchain",
-        "infra",
-        "maintainer",
         "typescript"
       ],
       "stats": {
@@ -6372,14 +6372,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
         "architect",
         "blockchain",
-        "docs",
-        "maintainer",
         "infra",
-        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -6487,15 +6487,15 @@
         }
       },
       "tags": [
-        "ai",
-        "bug-fix",
-        "docs",
-        "docs-writer",
         "maintainer",
+        "docs",
         "plugin",
-        "typescript",
+        "ai",
+        "ui",
+        "bug-fix",
+        "docs-writer",
         "client",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 6,
@@ -6610,17 +6610,17 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "docs",
-        "docs-writer",
         "api",
-        "infra",
-        "security",
+        "docs",
         "plugin",
-        "typescript",
-        "client"
+        "security",
+        "architect",
+        "infra",
+        "core",
+        "docs-writer",
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 6,
@@ -6754,19 +6754,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "db",
+        "maintainer",
+        "plugin",
+        "docs",
         "test",
         "blockchain",
         "architect",
-        "docs",
+        "core",
+        "bug-fix",
         "docs-writer",
-        "maintainer",
-        "plugin",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 6,
@@ -6867,14 +6867,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "test",
-        "plugin",
-        "infra",
         "maintainer",
+        "plugin",
+        "test",
         "architect",
+        "core",
+        "infra",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -6955,11 +6955,11 @@
         }
       },
       "tags": [
-        "infra",
         "maintainer",
+        "docs",
         "bug-fix",
         "plugin",
-        "docs"
+        "infra"
       ],
       "stats": {
         "total_prs": 5,
@@ -7046,11 +7046,11 @@
         }
       },
       "tags": [
+        "api",
+        "maintainer",
         "core",
         "ai",
         "bug-fix",
-        "api",
-        "maintainer",
         "client",
         "typescript"
       ],
@@ -7130,12 +7130,12 @@
         }
       },
       "tags": [
-        "plugin",
         "maintainer",
+        "docs",
         "bug-fix",
+        "plugin",
         "client",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 5,
@@ -7244,19 +7244,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
+        "api",
         "architect",
         "blockchain",
-        "docs",
-        "api",
+        "core",
         "infra",
-        "maintainer",
-        "plugin",
-        "typescript",
-        "client"
+        "ai",
+        "bug-fix",
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 5,
@@ -7356,15 +7356,15 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "db",
+        "plugin",
         "architect",
         "blockchain",
-        "plugin",
+        "core",
+        "ai",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 5,
@@ -7465,15 +7465,15 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "api",
+        "test",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "architect",
-        "test",
-        "api",
-        "maintainer",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -7552,11 +7552,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -7648,14 +7648,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "plugin",
         "blockchain",
         "architect",
         "infra",
-        "plugin",
-        "typescript",
-        "client"
+        "core",
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 5,
@@ -7745,11 +7745,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -7863,15 +7863,15 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "blockchain",
-        "test",
-        "docs",
         "plugin",
-        "infra",
+        "docs",
+        "test",
         "architect",
+        "blockchain",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -7973,12 +7973,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "docs",
         "plugin",
+        "docs",
+        "architect",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -8117,20 +8117,20 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "docs",
+        "plugin",
+        "api",
+        "test",
+        "blockchain",
+        "architect",
+        "infra",
         "core",
         "ai",
         "bug-fix",
-        "db",
-        "test",
-        "blockchain",
-        "docs",
-        "architect",
-        "api",
-        "infra",
-        "maintainer",
-        "plugin",
-        "typescript"
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 5,
@@ -8231,13 +8231,13 @@
         }
       },
       "tags": [
+        "maintainer",
+        "docs",
+        "plugin",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "docs",
-        "maintainer",
-        "infra",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -8343,15 +8343,15 @@
         }
       },
       "tags": [
+        "maintainer",
+        "plugin",
+        "test",
         "core",
         "ai",
         "bug-fix",
-        "db",
-        "test",
-        "plugin",
-        "maintainer",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 5,
@@ -8419,9 +8419,9 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "plugin",
         "maintainer",
+        "plugin",
+        "bug-fix",
         "client",
         "typescript"
       ],
@@ -8509,14 +8509,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "blockchain",
-        "architect",
         "api",
         "plugin",
+        "blockchain",
+        "architect",
+        "ui",
+        "feature-dev",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 4,
@@ -8601,11 +8601,11 @@
         }
       },
       "tags": [
-        "core",
-        "bug-fix",
+        "maintainer",
         "docs",
         "api",
-        "maintainer",
+        "core",
+        "bug-fix",
         "client",
         "typescript"
       ],
@@ -8683,10 +8683,10 @@
         }
       },
       "tags": [
-        "ai",
-        "bug-fix",
         "maintainer",
         "plugin",
+        "ai",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -8752,10 +8752,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -8857,14 +8857,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
         "blockchain",
         "architect",
-        "docs",
         "infra",
-        "maintainer",
-        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -8951,12 +8951,12 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
-        "db",
         "docs",
         "plugin",
-        "typescript"
+        "core",
+        "ai",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 4,
@@ -9023,10 +9023,10 @@
         }
       },
       "tags": [
-        "blockchain",
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -9099,8 +9099,8 @@
       "tags": [
         "maintainer",
         "bug-fix",
-        "client",
         "test",
+        "client",
         "typescript"
       ],
       "stats": {
@@ -9207,18 +9207,18 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
-        "db",
-        "architect",
+        "maintainer",
         "docs",
         "plugin",
-        "maintainer",
+        "architect",
+        "core",
         "infra",
+        "ai",
+        "bug-fix",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 4,
@@ -9311,13 +9311,13 @@
         }
       },
       "tags": [
-        "ai",
         "docs",
-        "docs-writer",
-        "infra",
         "plugin",
-        "typescript",
-        "ui"
+        "infra",
+        "ai",
+        "ui",
+        "docs-writer",
+        "typescript"
       ],
       "stats": {
         "total_prs": 4,
@@ -9417,14 +9417,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
+        "plugin",
         "architect",
         "infra",
-        "plugin",
-        "typescript",
+        "ai",
+        "ui",
+        "feature-dev",
         "client",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 4,
@@ -9533,16 +9533,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
         "architect",
         "blockchain",
-        "docs",
-        "maintainer",
+        "core",
         "infra",
-        "plugin",
+        "ai",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -9674,12 +9674,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "docs",
         "plugin",
+        "docs",
+        "architect",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -9789,16 +9789,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "db",
+        "plugin",
         "test",
         "architect",
-        "plugin",
+        "core",
         "infra",
+        "ai",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 4,
@@ -9916,18 +9916,18 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "bug-fix",
-        "db",
-        "architect",
+        "maintainer",
         "docs",
         "plugin",
-        "maintainer",
+        "architect",
+        "core",
         "infra",
+        "ai",
+        "bug-fix",
+        "feature-dev",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 4,
@@ -10020,14 +10020,14 @@
         }
       },
       "tags": [
-        "core",
-        "bug-fix",
-        "db",
-        "plugin",
         "maintainer",
+        "plugin",
+        "core",
         "infra",
+        "bug-fix",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 4,
@@ -10139,9 +10139,9 @@
         }
       },
       "tags": [
+        "test",
         "core",
         "ai",
-        "test",
         "client",
         "typescript"
       ],
@@ -10308,16 +10308,16 @@
         }
       },
       "tags": [
-        "infra",
-        "ui",
-        "core",
-        "ai",
-        "db",
-        "docs",
         "maintainer",
+        "docs",
+        "core",
+        "infra",
+        "ai",
+        "client",
         "plugin",
+        "ui",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -10380,8 +10380,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -10440,8 +10440,8 @@
         }
       },
       "tags": [
-        "api",
         "maintainer",
+        "api",
         "bug-fix",
         "client",
         "typescript"
@@ -10495,9 +10495,9 @@
         }
       },
       "tags": [
+        "docs",
         "client",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -10595,14 +10595,14 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "architect",
-        "docs-writer",
         "infra",
-        "plugin",
+        "docs-writer",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -10698,13 +10698,13 @@
         }
       },
       "tags": [
+        "maintainer",
+        "plugin",
+        "blockchain",
+        "infra",
         "core",
         "ai",
         "bug-fix",
-        "blockchain",
-        "infra",
-        "maintainer",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -10758,9 +10758,9 @@
         }
       },
       "tags": [
+        "docs",
         "feature-dev",
-        "architect",
-        "docs"
+        "architect"
       ],
       "stats": {
         "total_prs": 3,
@@ -10839,13 +10839,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "blockchain",
-        "architect",
         "maintainer",
         "plugin",
+        "architect",
+        "blockchain",
+        "core",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -10898,8 +10898,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -11014,17 +11014,17 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "api",
+        "docs",
+        "maintainer",
+        "blockchain",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "db",
-        "blockchain",
-        "docs",
-        "api",
-        "maintainer",
-        "architect",
-        "typescript"
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -11110,12 +11110,12 @@
         }
       },
       "tags": [
+        "maintainer",
+        "plugin",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "maintainer",
-        "infra",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -11197,13 +11197,13 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
-        "db",
         "maintainer",
         "plugin",
+        "core",
+        "ai",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -11349,15 +11349,15 @@
         }
       },
       "tags": [
-        "core",
-        "test",
         "docs",
-        "infra",
-        "security",
         "plugin",
-        "typescript",
+        "test",
+        "security",
+        "core",
+        "infra",
+        "ui",
         "client",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -11441,8 +11441,8 @@
       },
       "tags": [
         "docs",
-        "docs-writer",
         "infra",
+        "docs-writer",
         "client",
         "typescript"
       ],
@@ -11533,12 +11533,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "architect",
         "blockchain",
-        "docs",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -11624,11 +11624,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "blockchain",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -11724,14 +11724,14 @@
         }
       },
       "tags": [
-        "api",
-        "infra",
-        "security",
-        "ui",
-        "db",
         "docs",
+        "security",
+        "infra",
         "client",
-        "typescript"
+        "api",
+        "ui",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -11813,8 +11813,8 @@
       "tags": [
         "feature-dev",
         "architect",
-        "typescript",
-        "client"
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -11919,14 +11919,14 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "architect",
+        "blockchain",
         "infra",
         "core",
         "ai",
-        "blockchain",
-        "architect",
-        "docs",
         "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12028,14 +12028,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "docs",
+        "plugin",
+        "test",
         "blockchain",
         "architect",
-        "docs",
-        "test",
+        "core",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12135,12 +12135,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "architect",
-        "maintainer",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -12248,16 +12248,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "architect",
         "infra",
         "core",
         "ai",
-        "db",
-        "docs",
-        "maintainer",
-        "architect",
-        "typescript"
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -12327,10 +12327,10 @@
         }
       },
       "tags": [
+        "docs",
         "feature-dev",
         "architect",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -12404,12 +12404,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "architect",
         "blockchain",
-        "docs",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12498,12 +12498,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "architect",
-        "docs",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12583,11 +12583,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "test",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12648,11 +12648,11 @@
         }
       },
       "tags": [
+        "docs",
         "blockchain",
-        "ai",
-        "db",
         "typescript",
-        "docs"
+        "ai",
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -12761,17 +12761,17 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "db",
-        "test",
-        "docs",
-        "infra",
         "maintainer",
+        "docs",
+        "test",
         "architect",
+        "core",
+        "infra",
+        "bug-fix",
+        "feature-dev",
+        "client",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 3,
@@ -12878,14 +12878,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "docs",
-        "docs-writer",
         "api",
-        "infra",
+        "docs",
         "plugin",
+        "architect",
+        "core",
+        "infra",
+        "docs-writer",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -12986,15 +12986,15 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "api",
-        "infra",
-        "ui",
-        "core",
         "architect",
+        "infra",
+        "core",
+        "client",
+        "api",
         "plugin",
-        "typescript",
-        "client"
+        "ui",
+        "feature-dev",
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13075,12 +13075,12 @@
         }
       },
       "tags": [
-        "docs",
         "maintainer",
-        "infra",
+        "docs",
         "plugin",
-        "typescript",
-        "client"
+        "infra",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13149,10 +13149,10 @@
         }
       },
       "tags": [
+        "docs",
         "docs-writer",
         "client",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13236,13 +13236,13 @@
         }
       },
       "tags": [
+        "maintainer",
+        "test",
+        "blockchain",
+        "infra",
         "core",
         "ai",
         "bug-fix",
-        "test",
-        "blockchain",
-        "maintainer",
-        "infra",
         "typescript"
       ],
       "stats": {
@@ -13297,9 +13297,9 @@
       },
       "tags": [
         "api",
+        "docs",
         "client",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13379,12 +13379,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "api",
+        "docs",
+        "architect",
         "core",
         "ai",
-        "docs",
-        "api",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -13454,9 +13454,9 @@
       },
       "tags": [
         "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13557,16 +13557,16 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "plugin",
         "test",
         "blockchain",
         "architect",
         "infra",
-        "maintainer",
-        "plugin",
-        "typescript",
-        "ui"
+        "ui",
+        "bug-fix",
+        "feature-dev",
+        "typescript"
       ],
       "stats": {
         "total_prs": 3,
@@ -13636,12 +13636,12 @@
         }
       },
       "tags": [
-        "core",
-        "api",
         "maintainer",
+        "api",
         "bug-fix",
-        "ai",
-        "typescript"
+        "core",
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
@@ -13760,13 +13760,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "test",
-        "docs",
         "api",
-        "infra",
+        "docs",
+        "test",
         "architect",
+        "core",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -13818,8 +13818,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -13940,19 +13940,19 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
         "test",
-        "api",
-        "infra",
-        "ai",
-        "db",
         "blockchain",
         "architect",
-        "docs",
-        "maintainer",
+        "infra",
+        "ai",
         "client",
-        "typescript"
+        "api",
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -14040,11 +14040,11 @@
         }
       },
       "tags": [
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "infra",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -14166,17 +14166,17 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
-        "api",
+        "maintainer",
+        "docs",
+        "architect",
         "core",
         "ai",
-        "architect",
-        "docs",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
-        "typescript",
-        "client"
+        "bug-fix",
+        "feature-dev",
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -14345,12 +14345,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
         "api",
-        "infra",
         "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -14432,12 +14432,12 @@
         }
       },
       "tags": [
-        "core",
-        "test",
-        "blockchain",
-        "infra",
         "maintainer",
         "plugin",
+        "test",
+        "blockchain",
+        "core",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -14557,13 +14557,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "db",
         "test",
-        "infra",
         "architect",
-        "typescript"
+        "core",
+        "infra",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -14629,10 +14629,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -14726,14 +14726,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
         "docs",
-        "infra",
         "plugin",
-        "typescript",
-        "client"
+        "architect",
+        "core",
+        "infra",
+        "feature-dev",
+        "client",
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -14824,8 +14824,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -14950,12 +14950,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
-        "docs",
         "api",
-        "infra",
+        "docs",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -15055,9 +15055,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "maintainer",
         "bug-fix",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -15109,10 +15109,10 @@
         }
       },
       "tags": [
-        "core",
         "api",
-        "ai",
-        "typescript"
+        "core",
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
@@ -15168,9 +15168,9 @@
         }
       },
       "tags": [
+        "docs",
         "plugin",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -15230,11 +15230,11 @@
         }
       },
       "tags": [
-        "feature-dev",
         "api",
+        "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -15327,14 +15327,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "architect",
-        "test",
-        "docs",
-        "infra",
         "plugin",
+        "docs",
+        "test",
+        "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -15389,8 +15389,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -15455,8 +15455,8 @@
         }
       },
       "tags": [
-        "core",
         "maintainer",
+        "core",
         "bug-fix",
         "client",
         "typescript"
@@ -15514,9 +15514,9 @@
         }
       },
       "tags": [
+        "docs",
         "docs-writer",
-        "ai",
-        "docs"
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
@@ -15596,13 +15596,13 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "blockchain",
-        "docs",
         "maintainer",
         "plugin",
-        "typescript",
-        "ui"
+        "docs",
+        "blockchain",
+        "ui",
+        "bug-fix",
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -15673,11 +15673,11 @@
         }
       },
       "tags": [
-        "feature-dev",
         "architect",
+        "ui",
+        "feature-dev",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -15758,11 +15758,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
-        "blockchain",
         "docs",
         "plugin",
+        "architect",
+        "blockchain",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -15823,8 +15823,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
-        "docs"
+        "docs",
+        "bug-fix"
       ],
       "stats": {
         "total_prs": 2,
@@ -15941,11 +15941,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
+        "architect",
         "blockchain",
         "infra",
-        "architect",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -16104,16 +16104,16 @@
         }
       },
       "tags": [
+        "maintainer",
+        "docs",
         "test",
-        "ui",
         "core",
         "ai",
-        "db",
-        "docs",
-        "maintainer",
+        "client",
         "plugin",
+        "ui",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -16183,9 +16183,9 @@
       },
       "tags": [
         "maintainer",
-        "db",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -16297,10 +16297,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "architect",
         "core",
         "ai",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -16392,13 +16392,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -16508,16 +16508,16 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "api",
-        "infra",
-        "core",
-        "db",
-        "blockchain",
-        "docs",
         "maintainer",
+        "docs",
+        "blockchain",
+        "core",
+        "infra",
+        "api",
         "plugin",
-        "typescript"
+        "bug-fix",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -16571,9 +16571,9 @@
         }
       },
       "tags": [
+        "docs",
         "docs-writer",
-        "ai",
-        "docs"
+        "ai"
       ],
       "stats": {
         "total_prs": 2,
@@ -16652,13 +16652,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "db",
         "docs",
-        "infra",
         "architect",
-        "typescript"
+        "core",
+        "infra",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -16802,15 +16802,15 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "test",
-        "docs",
-        "plugin",
         "maintainer",
+        "plugin",
+        "docs",
+        "test",
         "infra",
+        "ui",
+        "bug-fix",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -16937,18 +16937,18 @@
         }
       },
       "tags": [
+        "docs",
         "test",
-        "api",
-        "infra",
         "security",
-        "ui",
+        "infra",
         "core",
         "ai",
-        "db",
-        "docs",
+        "client",
+        "api",
         "plugin",
+        "ui",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -17049,13 +17049,13 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
+        "docs",
+        "architect",
         "core",
         "ai",
-        "architect",
-        "docs",
+        "feature-dev",
         "client",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -17110,8 +17110,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -17376,13 +17376,13 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -17457,10 +17457,10 @@
         }
       },
       "tags": [
+        "plugin",
         "test",
         "blockchain",
         "infra",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -17513,8 +17513,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -17609,15 +17609,15 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "architect",
         "infra",
-        "maintainer",
-        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -17707,10 +17707,10 @@
         }
       },
       "tags": [
-        "test",
-        "blockchain",
         "docs",
         "plugin",
+        "test",
+        "blockchain",
         "infra",
         "client",
         "typescript"
@@ -17857,13 +17857,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "blockchain",
-        "architect",
         "docs",
         "plugin",
+        "blockchain",
+        "architect",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -17936,11 +17936,11 @@
         }
       },
       "tags": [
-        "feature-dev",
         "api",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -18041,11 +18041,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18117,8 +18117,8 @@
         }
       },
       "tags": [
-        "core",
         "plugin",
+        "core",
         "client",
         "typescript"
       ],
@@ -18164,8 +18164,8 @@
         }
       },
       "tags": [
-        "client",
-        "docs"
+        "docs",
+        "client"
       ],
       "stats": {
         "total_prs": 2,
@@ -18251,12 +18251,12 @@
         }
       },
       "tags": [
+        "maintainer",
+        "plugin",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "plugin",
-        "infra",
-        "maintainer",
         "client",
         "typescript"
       ],
@@ -18330,10 +18330,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18405,9 +18405,9 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
         "architect",
+        "core",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -18495,13 +18495,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "docs",
+        "plugin",
         "blockchain",
         "architect",
-        "docs",
+        "core",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18588,12 +18588,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "architect",
-        "docs",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18672,10 +18672,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18727,8 +18727,8 @@
         }
       },
       "tags": [
-        "typescript",
-        "infra"
+        "infra",
+        "typescript"
       ],
       "stats": {
         "total_prs": 2,
@@ -18788,8 +18788,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -18884,13 +18884,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "test",
         "docs",
-        "infra",
         "plugin",
+        "test",
+        "architect",
+        "core",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -18958,8 +18958,8 @@
       },
       "tags": [
         "feature-dev",
-        "core",
         "architect",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -19051,13 +19051,13 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -19111,8 +19111,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -19227,10 +19227,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "architect",
         "core",
         "ai",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -19337,15 +19337,15 @@
       },
       "tags": [
         "test",
-        "api",
+        "blockchain",
         "infra",
         "core",
         "ai",
-        "db",
-        "blockchain",
+        "client",
+        "api",
         "plugin",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -19409,8 +19409,8 @@
         }
       },
       "tags": [
-        "core",
         "infra",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -19522,10 +19522,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -19586,10 +19586,10 @@
         }
       },
       "tags": [
-        "core",
-        "db",
+        "api",
         "docs",
-        "api"
+        "core",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -19736,9 +19736,9 @@
         }
       },
       "tags": [
-        "core",
+        "docs",
         "docs-writer",
-        "docs"
+        "core"
       ],
       "stats": {
         "total_prs": 2,
@@ -19843,9 +19843,9 @@
         }
       },
       "tags": [
-        "docs-writer",
+        "maintainer",
         "docs",
-        "maintainer"
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -19914,11 +19914,11 @@
         }
       },
       "tags": [
-        "core",
         "maintainer",
+        "docs",
         "bug-fix",
         "architect",
-        "docs",
+        "core",
         "ui"
       ],
       "stats": {
@@ -20090,17 +20090,17 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "test",
-        "api",
-        "infra",
-        "core",
-        "ai",
-        "blockchain",
         "docs",
+        "test",
+        "blockchain",
         "architect",
-        "plugin",
+        "core",
+        "infra",
+        "ai",
         "client",
+        "api",
+        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -20201,13 +20201,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "api",
+        "plugin",
+        "maintainer",
         "blockchain",
         "architect",
-        "api",
-        "maintainer",
-        "plugin",
+        "bug-fix",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -20337,9 +20337,9 @@
         }
       },
       "tags": [
-        "core",
         "maintainer",
         "bug-fix",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -20433,14 +20433,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "api",
+        "docs",
+        "plugin",
         "test",
         "architect",
-        "docs",
-        "api",
+        "core",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -20549,15 +20549,15 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "bug-fix",
+        "maintainer",
+        "architect",
         "core",
         "ai",
-        "db",
-        "architect",
-        "maintainer",
         "client",
-        "typescript"
+        "bug-fix",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -20654,12 +20654,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "bug-fix",
-        "architect",
-        "infra",
         "maintainer",
+        "architect",
+        "core",
+        "infra",
+        "bug-fix",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -20760,13 +20760,13 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "maintainer",
+        "plugin",
+        "architect",
         "core",
         "ai",
         "bug-fix",
-        "architect",
-        "maintainer",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -20905,13 +20905,13 @@
         }
       },
       "tags": [
+        "api",
+        "docs",
+        "maintainer",
         "core",
+        "infra",
         "ai",
         "bug-fix",
-        "docs",
-        "api",
-        "infra",
-        "maintainer",
         "client",
         "typescript"
       ],
@@ -20977,8 +20977,8 @@
       },
       "tags": [
         "core",
-        "db",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 2,
@@ -21050,11 +21050,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "api",
+        "architect",
         "core",
         "ai",
-        "architect",
-        "api",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -21125,10 +21125,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
+        "docs",
         "plugin",
-        "docs"
+        "feature-dev",
+        "architect"
       ],
       "stats": {
         "total_prs": 2,
@@ -21173,8 +21173,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 2,
@@ -21234,11 +21234,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "docs",
         "docs-writer",
+        "feature-dev",
         "architect",
-        "docs"
+        "core"
       ],
       "stats": {
         "total_prs": 2,
@@ -21296,8 +21296,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "client",
         "typescript"
       ],
@@ -21409,11 +21409,11 @@
         }
       },
       "tags": [
-        "bug-fix",
         "maintainer",
+        "ui",
+        "bug-fix",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -21539,8 +21539,8 @@
         }
       },
       "tags": [
-        "infra",
-        "maintainer"
+        "maintainer",
+        "infra"
       ],
       "stats": {
         "total_prs": 1,
@@ -21605,11 +21605,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "architect",
+        "blockchain",
         "core",
         "ai",
-        "blockchain",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -21723,8 +21723,8 @@
         }
       },
       "tags": [
-        "api",
         "maintainer",
+        "api",
         "bug-fix",
         "typescript"
       ],
@@ -21925,8 +21925,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -21980,9 +21980,9 @@
       },
       "tags": [
         "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -22156,11 +22156,11 @@
         }
       },
       "tags": [
-        "bug-fix",
         "maintainer",
+        "ui",
+        "bug-fix",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -22254,8 +22254,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -22308,11 +22308,11 @@
         }
       },
       "tags": [
-        "feature-dev",
         "api",
+        "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -22371,9 +22371,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "maintainer",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -22418,8 +22418,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -22473,8 +22473,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -22547,11 +22547,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -22605,8 +22605,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -22740,8 +22740,8 @@
         }
       },
       "tags": [
-        "plugin",
-        "docs"
+        "docs",
+        "plugin"
       ],
       "stats": {
         "total_prs": 1,
@@ -22854,9 +22854,9 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
+        "docs",
         "plugin",
-        "docs"
+        "bug-fix"
       ],
       "stats": {
         "total_prs": 1,
@@ -22967,10 +22967,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -23035,10 +23035,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "architect",
         "core",
         "ai",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -23121,8 +23121,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -23161,8 +23161,8 @@
         }
       },
       "tags": [
-        "plugin",
-        "docs"
+        "docs",
+        "plugin"
       ],
       "stats": {
         "total_prs": 1,
@@ -23234,10 +23234,10 @@
         }
       },
       "tags": [
-        "core",
-        "docs",
-        "infra",
         "maintainer",
+        "docs",
+        "core",
+        "infra",
         "client",
         "typescript"
       ],
@@ -23308,8 +23308,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -23419,8 +23419,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -23480,10 +23480,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
         "plugin",
+        "architect",
+        "core",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -23564,8 +23564,8 @@
       },
       "tags": [
         "feature-dev",
-        "core",
         "architect",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -23617,8 +23617,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -23679,8 +23679,8 @@
       "tags": [
         "maintainer",
         "bug-fix",
-        "db",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -23732,8 +23732,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
-        "docs"
+        "docs",
+        "bug-fix"
       ],
       "stats": {
         "total_prs": 1,
@@ -23792,8 +23792,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -23838,8 +23838,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -23961,8 +23961,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -24154,8 +24154,8 @@
         }
       },
       "tags": [
-        "core",
         "maintainer",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -24225,10 +24225,10 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "blockchain",
         "maintainer",
         "plugin",
+        "blockchain",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -24273,8 +24273,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -24416,8 +24416,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -24476,10 +24476,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -24553,12 +24553,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
         "api",
-        "infra",
         "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -24624,10 +24624,10 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
-        "ai",
         "plugin",
-        "typescript"
+        "bug-fix",
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -24685,11 +24685,11 @@
         }
       },
       "tags": [
-        "feature-dev",
         "api",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -24761,11 +24761,11 @@
         }
       },
       "tags": [
+        "maintainer",
+        "blockchain",
         "core",
         "ai",
         "bug-fix",
-        "blockchain",
-        "maintainer",
         "typescript"
       ],
       "stats": {
@@ -24821,9 +24821,9 @@
         }
       },
       "tags": [
+        "docs",
         "plugin",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -24903,11 +24903,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "blockchain",
-        "architect",
         "docs",
         "plugin",
+        "blockchain",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -24974,9 +24974,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "docs",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -25040,9 +25040,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "docs",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -25113,10 +25113,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -25168,8 +25168,8 @@
         }
       },
       "tags": [
-        "typescript",
-        "maintainer"
+        "maintainer",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -25227,10 +25227,10 @@
         }
       },
       "tags": [
-        "blockchain",
         "api",
-        "infra",
         "plugin",
+        "blockchain",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -25318,14 +25318,14 @@
         }
       },
       "tags": [
-        "core",
-        "db",
-        "test",
-        "docs",
         "api",
-        "maintainer",
+        "docs",
         "plugin",
-        "typescript"
+        "maintainer",
+        "test",
+        "core",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -25409,12 +25409,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
         "docs",
-        "infra",
         "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -25488,9 +25488,9 @@
         }
       },
       "tags": [
-        "feature-dev",
         "architect",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -25633,11 +25633,11 @@
         }
       },
       "tags": [
-        "ai",
-        "db",
-        "blockchain",
+        "api",
         "docs",
-        "api"
+        "blockchain",
+        "ai",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -25695,9 +25695,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "maintainer",
         "bug-fix",
+        "blockchain",
         "client",
         "typescript"
       ],
@@ -25764,9 +25764,9 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "api",
+        "architect",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -25827,8 +25827,8 @@
       },
       "tags": [
         "docs",
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -25899,10 +25899,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
         "plugin",
-        "architect",
-        "docs"
+        "feature-dev",
+        "architect"
       ],
       "stats": {
         "total_prs": 1,
@@ -25956,11 +25956,11 @@
         }
       },
       "tags": [
-        "blockchain",
         "maintainer",
         "bug-fix",
-        "ai",
-        "typescript"
+        "blockchain",
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -26025,10 +26025,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -26104,9 +26104,9 @@
         }
       },
       "tags": [
-        "feature-dev",
         "architect",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -26162,8 +26162,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -26335,10 +26335,10 @@
         }
       },
       "tags": [
+        "api",
+        "test",
         "core",
         "ai",
-        "test",
-        "api",
         "typescript"
       ],
       "stats": {
@@ -26405,10 +26405,10 @@
         }
       },
       "tags": [
-        "test",
-        "blockchain",
         "docs",
         "plugin",
+        "test",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -26475,10 +26475,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -26582,11 +26582,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "test",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -26659,9 +26659,9 @@
         }
       },
       "tags": [
-        "feature-dev",
         "architect",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -26714,8 +26714,8 @@
         }
       },
       "tags": [
-        "core",
-        "docs"
+        "docs",
+        "core"
       ],
       "stats": {
         "total_prs": 1,
@@ -26780,9 +26780,9 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "infra",
         "maintainer",
+        "infra",
+        "bug-fix",
         "client",
         "typescript"
       ],
@@ -26841,8 +26841,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -26933,8 +26933,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "client",
         "typescript"
       ],
@@ -27027,13 +27027,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
-        "docs",
         "api",
-        "infra",
+        "docs",
         "architect",
+        "core",
+        "infra",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -27107,11 +27107,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "test",
-        "architect",
         "api",
         "plugin",
+        "test",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -27212,11 +27212,11 @@
         }
       },
       "tags": [
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "infra",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -27289,10 +27289,10 @@
         }
       },
       "tags": [
-        "test",
-        "blockchain",
-        "security",
         "plugin",
+        "test",
+        "security",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -27355,8 +27355,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -27422,8 +27422,8 @@
         }
       },
       "tags": [
-        "core",
         "plugin",
+        "core",
         "infra",
         "client",
         "typescript"
@@ -27512,12 +27512,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "core",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -27637,10 +27637,10 @@
         }
       },
       "tags": [
-        "blockchain",
         "docs",
-        "infra",
         "plugin",
+        "blockchain",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -27777,11 +27777,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "blockchain",
-        "architect",
         "docs",
         "plugin",
+        "blockchain",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -27871,13 +27871,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
+        "docs",
+        "plugin",
         "test",
         "architect",
-        "docs",
         "infra",
-        "plugin",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -27974,8 +27974,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -28050,11 +28050,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
+        "architect",
         "core",
         "ai",
-        "architect",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -28200,8 +28200,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -28303,13 +28303,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "docs",
+        "plugin",
         "test",
         "architect",
-        "docs",
+        "core",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -28452,10 +28452,10 @@
         }
       },
       "tags": [
-        "blockchain",
         "docs",
-        "infra",
         "plugin",
+        "blockchain",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -28511,8 +28511,8 @@
         }
       },
       "tags": [
-        "test",
         "plugin",
+        "test",
         "typescript"
       ],
       "stats": {
@@ -28624,10 +28624,10 @@
         }
       },
       "tags": [
-        "ai",
+        "docs",
         "plugin",
         "typescript",
-        "docs"
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -28687,9 +28687,9 @@
         }
       },
       "tags": [
-        "blockchain",
         "docs",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -28747,9 +28747,9 @@
         }
       },
       "tags": [
+        "docs",
         "plugin",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -28806,8 +28806,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -28891,12 +28891,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "api",
+        "architect",
+        "ui",
+        "feature-dev",
         "client",
-        "typescript",
-        "ui"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -29006,9 +29006,9 @@
         }
       },
       "tags": [
-        "core",
         "maintainer",
         "bug-fix",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -29081,12 +29081,12 @@
         }
       },
       "tags": [
-        "db",
-        "blockchain",
-        "test",
         "docs",
         "plugin",
-        "typescript"
+        "test",
+        "blockchain",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -29185,10 +29185,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
         "plugin",
+        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -29351,9 +29351,9 @@
         }
       },
       "tags": [
-        "core",
-        "blockchain",
         "docs",
+        "blockchain",
+        "core",
         "infra",
         "client",
         "typescript"
@@ -29489,10 +29489,10 @@
         }
       },
       "tags": [
-        "docs",
-        "infra",
         "maintainer",
+        "docs",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -29556,10 +29556,10 @@
         }
       },
       "tags": [
+        "docs",
         "feature-dev",
-        "infra",
         "architect",
-        "docs"
+        "infra"
       ],
       "stats": {
         "total_prs": 1,
@@ -29683,13 +29683,13 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "docs",
+        "plugin",
         "test",
         "blockchain",
-        "docs",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -29767,11 +29767,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
-        "architect",
         "docs",
-        "plugin"
+        "plugin",
+        "architect",
+        "ai",
+        "feature-dev"
       ],
       "stats": {
         "total_prs": 1,
@@ -29903,13 +29903,13 @@
         }
       },
       "tags": [
-        "core",
-        "db",
-        "blockchain",
         "docs",
-        "infra",
         "plugin",
-        "typescript"
+        "blockchain",
+        "core",
+        "infra",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -29976,8 +29976,8 @@
       },
       "tags": [
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -30050,11 +30050,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -30167,11 +30167,11 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
-        "architect",
         "api",
         "plugin",
+        "architect",
+        "core",
+        "ai",
         "client",
         "typescript"
       ],
@@ -30287,11 +30287,11 @@
         }
       },
       "tags": [
-        "core",
-        "blockchain",
         "docs",
-        "infra",
         "plugin",
+        "blockchain",
+        "core",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -30421,8 +30421,8 @@
         }
       },
       "tags": [
-        "test",
-        "infra"
+        "infra",
+        "test"
       ],
       "stats": {
         "total_prs": 1,
@@ -30687,8 +30687,8 @@
       },
       "tags": [
         "feature-dev",
-        "infra",
         "architect",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -30895,10 +30895,10 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
         "docs",
+        "core",
         "infra",
+        "ai",
         "typescript"
       ],
       "stats": {
@@ -30954,8 +30954,8 @@
       },
       "tags": [
         "core",
-        "db",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -31006,10 +31006,10 @@
         }
       },
       "tags": [
-        "core",
         "api",
-        "ai",
-        "typescript"
+        "core",
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -31131,8 +31131,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -31260,9 +31260,9 @@
         }
       },
       "tags": [
+        "docs",
         "infra",
-        "client",
-        "docs"
+        "client"
       ],
       "stats": {
         "total_prs": 1,
@@ -31427,11 +31427,11 @@
         }
       },
       "tags": [
-        "core",
-        "test",
         "docs",
         "plugin",
+        "test",
         "infra",
+        "core",
         "client",
         "typescript"
       ],
@@ -31487,8 +31487,8 @@
         }
       },
       "tags": [
-        "infra",
-        "maintainer"
+        "maintainer",
+        "infra"
       ],
       "stats": {
         "total_prs": 1,
@@ -31573,8 +31573,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -31618,8 +31618,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -31666,8 +31666,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -31772,10 +31772,10 @@
         }
       },
       "tags": [
+        "api",
+        "docs",
         "core",
         "ai",
-        "docs",
-        "api",
         "typescript"
       ],
       "stats": {
@@ -31898,8 +31898,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -31938,8 +31938,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -32011,11 +32011,11 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "blockchain",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -32083,9 +32083,9 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "plugin",
+        "architect",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -32152,10 +32152,10 @@
         }
       },
       "tags": [
-        "core",
-        "blockchain",
-        "infra",
         "plugin",
+        "blockchain",
+        "core",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -32236,10 +32236,10 @@
         }
       },
       "tags": [
-        "core",
-        "ai",
         "docs",
         "plugin",
+        "core",
+        "ai",
         "client",
         "typescript"
       ],
@@ -32359,8 +32359,8 @@
       },
       "tags": [
         "api",
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -32426,10 +32426,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -32491,10 +32491,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -32566,11 +32566,11 @@
         }
       },
       "tags": [
-        "core",
-        "bug-fix",
-        "docs",
-        "infra",
         "maintainer",
+        "docs",
+        "core",
+        "infra",
+        "bug-fix",
         "typescript"
       ],
       "stats": {
@@ -32642,10 +32642,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "docs",
-        "infra",
         "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -32872,12 +32872,12 @@
         }
       },
       "tags": [
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "api",
-        "typescript"
+        "docs",
+        "blockchain",
+        "ai",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -32956,10 +32956,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -33041,13 +33041,13 @@
         }
       },
       "tags": [
+        "maintainer",
+        "plugin",
         "ai",
         "bug-fix",
-        "db",
-        "plugin",
-        "maintainer",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -33098,9 +33098,9 @@
         }
       },
       "tags": [
+        "docs",
         "feature-dev",
-        "architect",
-        "docs"
+        "architect"
       ],
       "stats": {
         "total_prs": 1,
@@ -33152,8 +33152,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -33218,9 +33218,9 @@
         }
       },
       "tags": [
+        "plugin",
         "core",
         "ai",
-        "plugin",
         "client",
         "typescript"
       ],
@@ -33300,10 +33300,10 @@
         }
       },
       "tags": [
-        "core",
-        "docs",
         "api",
+        "docs",
         "infra",
+        "core",
         "client",
         "typescript"
       ],
@@ -33398,11 +33398,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
         "architect",
+        "core",
         "infra",
+        "ai",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -33480,10 +33480,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "blockchain",
         "architect",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -33694,10 +33694,10 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
         "architect",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -33852,10 +33852,10 @@
         }
       },
       "tags": [
-        "feature-dev",
         "plugin",
-        "typescript",
-        "architect"
+        "feature-dev",
+        "architect",
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -34080,11 +34080,11 @@
         }
       },
       "tags": [
-        "ai",
-        "db",
-        "blockchain",
+        "api",
         "docs",
-        "api"
+        "blockchain",
+        "ai",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -34135,8 +34135,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -34181,8 +34181,8 @@
         }
       },
       "tags": [
-        "plugin",
-        "docs"
+        "docs",
+        "plugin"
       ],
       "stats": {
         "total_prs": 1,
@@ -34245,9 +34245,9 @@
       },
       "tags": [
         "api",
+        "docs",
         "maintainer",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -34349,8 +34349,8 @@
         }
       },
       "tags": [
-        "core",
         "architect",
+        "core",
         "typescript"
       ],
       "stats": {
@@ -34395,8 +34395,8 @@
         }
       },
       "tags": [
-        "docs",
-        "maintainer"
+        "maintainer",
+        "docs"
       ],
       "stats": {
         "total_prs": 1,
@@ -34443,8 +34443,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -34509,10 +34509,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "blockchain",
         "architect",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -34598,12 +34598,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "test",
         "blockchain",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -34725,8 +34725,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -34805,11 +34805,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "docs",
         "api",
+        "docs",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -34950,11 +34950,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "ai",
         "docs",
         "architect",
+        "core",
+        "ai",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -35019,10 +35019,10 @@
         }
       },
       "tags": [
-        "api",
         "maintainer",
-        "bug-fix",
         "plugin",
+        "bug-fix",
+        "api",
         "typescript"
       ],
       "stats": {
@@ -35130,17 +35130,17 @@
         }
       },
       "tags": [
-        "bug-fix",
-        "api",
+        "maintainer",
+        "docs",
+        "blockchain",
         "infra",
         "ai",
-        "db",
-        "blockchain",
-        "docs",
-        "maintainer",
+        "client",
+        "api",
         "plugin",
+        "bug-fix",
         "typescript",
-        "client"
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -35212,10 +35212,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "blockchain",
         "architect",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -35281,9 +35281,9 @@
       },
       "tags": [
         "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -35420,13 +35420,13 @@
         }
       },
       "tags": [
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "api",
+        "docs",
+        "blockchain",
+        "ai",
         "client",
-        "typescript"
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -35508,12 +35508,12 @@
         }
       },
       "tags": [
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "api",
-        "typescript"
+        "docs",
+        "blockchain",
+        "ai",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -35570,8 +35570,8 @@
       },
       "tags": [
         "core",
-        "ai",
-        "typescript"
+        "typescript",
+        "ai"
       ],
       "stats": {
         "total_prs": 1,
@@ -35667,8 +35667,8 @@
         }
       },
       "tags": [
-        "docs",
-        "maintainer"
+        "maintainer",
+        "docs"
       ],
       "stats": {
         "total_prs": 1,
@@ -35779,10 +35779,10 @@
         }
       },
       "tags": [
+        "maintainer",
         "core",
         "ai",
         "bug-fix",
-        "maintainer",
         "typescript"
       ],
       "stats": {
@@ -35842,9 +35842,9 @@
       },
       "tags": [
         "feature-dev",
+        "architect",
         "client",
-        "typescript",
-        "architect"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -35909,10 +35909,10 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "architect",
         "core",
         "ai",
-        "architect",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -35962,8 +35962,8 @@
         }
       },
       "tags": [
-        "docs-writer",
         "docs",
+        "docs-writer",
         "ai"
       ],
       "stats": {
@@ -36076,11 +36076,11 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "architect",
         "docs",
-        "infra",
         "plugin",
+        "architect",
+        "infra",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -36159,10 +36159,10 @@
         }
       },
       "tags": [
+        "plugin",
         "blockchain",
         "infra",
         "client",
-        "plugin",
         "typescript"
       ],
       "stats": {
@@ -36257,13 +36257,13 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "blockchain",
-        "test",
-        "architect",
         "api",
         "plugin",
+        "test",
+        "blockchain",
+        "architect",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -36360,9 +36360,9 @@
         }
       },
       "tags": [
+        "docs",
         "client",
-        "typescript",
-        "docs"
+        "typescript"
       ],
       "stats": {
         "total_prs": 1,
@@ -36429,10 +36429,10 @@
         }
       },
       "tags": [
-        "ai",
+        "plugin",
         "blockchain",
         "infra",
-        "plugin",
+        "ai",
         "typescript"
       ],
       "stats": {
@@ -36491,8 +36491,8 @@
         }
       },
       "tags": [
-        "blockchain",
         "plugin",
+        "blockchain",
         "typescript"
       ],
       "stats": {
@@ -36544,8 +36544,8 @@
         }
       },
       "tags": [
-        "infra",
         "plugin",
+        "infra",
         "typescript"
       ],
       "stats": {
@@ -36608,9 +36608,9 @@
         }
       },
       "tags": [
+        "docs",
         "feature-dev",
-        "architect",
-        "docs"
+        "architect"
       ],
       "stats": {
         "total_prs": 1,
@@ -36860,12 +36860,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
+        "plugin",
         "blockchain",
         "architect",
-        "plugin",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -36960,14 +36960,14 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "ai",
-        "db",
-        "blockchain",
-        "docs",
         "api",
+        "docs",
+        "blockchain",
         "architect",
-        "typescript"
+        "ai",
+        "feature-dev",
+        "typescript",
+        "db"
       ],
       "stats": {
         "total_prs": 1,
@@ -37021,8 +37021,8 @@
         }
       },
       "tags": [
-        "infra",
-        "maintainer"
+        "maintainer",
+        "infra"
       ],
       "stats": {
         "total_prs": 1,
@@ -37109,12 +37109,12 @@
         }
       },
       "tags": [
-        "feature-dev",
-        "core",
-        "architect",
-        "docs",
         "api",
+        "docs",
+        "architect",
+        "core",
         "infra",
+        "feature-dev",
         "client",
         "typescript"
       ],
@@ -37206,12 +37206,12 @@
         }
       },
       "tags": [
-        "feature-dev",
+        "plugin",
         "test",
         "blockchain",
         "architect",
         "infra",
-        "plugin",
+        "feature-dev",
         "typescript"
       ],
       "stats": {
@@ -37372,8 +37372,8 @@
         }
       },
       "tags": [
-        "docs-writer",
-        "docs"
+        "docs",
+        "docs-writer"
       ],
       "stats": {
         "total_prs": 1,
@@ -40852,10 +40852,10 @@
   ],
   "metadata": {
     "total_contributors": 697,
-    "analysis_date": "2025-03-26",
+    "analysis_date": "2025-03-27",
     "analysis_timeframe": {
       "after": "2024-10-15T00:00:00",
-      "before": "2025-03-26T23:59:59"
+      "before": "2025-03-27T23:59:59"
     },
     "tags_found": [
       "ai",
