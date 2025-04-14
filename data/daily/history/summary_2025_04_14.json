@@ -1,0 +1,77 @@
+{
+  "title": "elizaos Eliza (2025-04-13)",
+  "version": "",
+  "overview": "Development focused on package improvements (changes to plugin-sql docs), new features (upgrade pckg manager), 6 bug fixes. with 8 contributors merging 14 PRs. Major work included various improvements.",
+  "metrics": {
+    "contributors": 8,
+    "merged_prs": 14,
+    "new_issues": 2,
+    "lines_changed": 1747
+  },
+  "changes": {
+    "features": [
+      "upgrade pckg manager",
+      "Build cli command",
+      "use socketio, remove wss, use bun instead of node in the-org"
+    ],
+    "fixes": [
+      "delete memory",
+      "logger not properly formatting.",
+      "agent last message animation + improbved profile card"
+    ],
+    "chores": [
+      "Cleaning Up",
+      "consistent cli command imports"
+    ]
+  },
+  "areas": [
+    {
+      "name": "packages",
+      "files": 39,
+      "additions": 1037,
+      "deletions": 433
+    },
+    {
+      "name": "root",
+      "files": 6,
+      "additions": 120,
+      "deletions": 155
+    },
+    {
+      "name": "docs",
+      "files": 1,
+      "additions": 1,
+      "deletions": 1
+    }
+  ],
+  "issues_summary": "implementing 1 feature requests including 'feat: upload .env file to webui configurator'",
+  "questions": [],
+  "top_contributors": [
+    {
+      "name": "0xbbjoker",
+      "summary": "Unable to generate summary for 0xbbjoker due to an error",
+      "areas": [
+        "packages",
+        "package.json",
+        "bun.lock"
+      ]
+    },
+    {
+      "name": "shakkernerd",
+      "summary": "Unable to generate summary for shakkernerd due to an error",
+      "areas": [
+        "packages",
+        "package.json",
+        "bun.lock"
+      ]
+    },
+    {
+      "name": "wtfsayo",
+      "summary": "Unable to generate summary for wtfsayo due to an error",
+      "areas": [
+        "packages",
+        "bun.lock"
+      ]
+    }
+  ]
+}
