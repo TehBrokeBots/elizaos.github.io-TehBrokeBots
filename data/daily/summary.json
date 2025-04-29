@@ -1,5 +1,5 @@
 {
-  "title": "elizaos Eliza (2025-04-28)",
+  "title": "elizaos Eliza (2025-04-29)",
   "version": "",
   "overview": "Development focused on package improvements (changes to plugin-sql docs), new features (upgrade pckg manager), 6 bug fixes. with 8 contributors merging 14 PRs. Major work included various improvements.",
   "metrics": {
@@ -52,8 +52,8 @@
       "summary": "Unable to generate summary for 0xbbjoker due to an error",
       "areas": [
         "package.json",
-        "packages",
-        "bun.lock"
+        "bun.lock",
+        "packages"
       ]
     },
     {
@@ -61,16 +61,16 @@
       "summary": "Unable to generate summary for shakkernerd due to an error",
       "areas": [
         "package.json",
-        "packages",
-        "bun.lock"
+        "bun.lock",
+        "packages"
       ]
     },
     {
       "name": "wtfsayo",
       "summary": "Unable to generate summary for wtfsayo due to an error",
       "areas": [
-        "packages",
-        "bun.lock"
+        "bun.lock",
+        "packages"
       ]
     }
   ]
