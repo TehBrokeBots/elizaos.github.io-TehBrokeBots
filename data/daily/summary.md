@@ -1,4 +1,4 @@
-# elizaos Eliza (2025-05-01)
+# elizaos Eliza (2025-05-03)
     
 ## 📊 Overview
 Development focused on package improvements (changes to plugin-sql docs), new features (upgrade pckg manager), 6 bug fixes. with 8 contributors merging 14 PRs. Major work included various improvements.
