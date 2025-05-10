@@ -1,5 +1,5 @@
 {
-  "title": "elizaos Eliza (2025-05-08)",
+  "title": "elizaos Eliza (2025-05-10)",
   "version": "",
   "overview": "Development focused on package improvements (changes to plugin-sql docs), new features (upgrade pckg manager), 6 bug fixes. with 8 contributors merging 14 PRs. Major work included various improvements.",
   "metrics": {
@@ -51,8 +51,8 @@
       "name": "0xbbjoker",
       "summary": "Unable to generate summary for 0xbbjoker due to an error",
       "areas": [
-        "package.json",
         "packages",
+        "package.json",
         "bun.lock"
       ]
     },
@@ -60,8 +60,8 @@
       "name": "shakkernerd",
       "summary": "Unable to generate summary for shakkernerd due to an error",
       "areas": [
-        "package.json",
         "packages",
+        "package.json",
         "bun.lock"
       ]
     },
